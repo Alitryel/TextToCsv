@@ -30,7 +30,7 @@ def browse_folder():
 
 app = tk.Tk()
 app.title("Конвертер TXT в CSV")
-app.geometry("300x150")  # Увеличенный размер окна
+app.geometry("300x150")
 
 input_path = tk.StringVar()
 
